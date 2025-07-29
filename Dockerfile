@@ -8,6 +8,7 @@ WORKDIR /app
 COPY main.py .
 
 # run 
+RUN mkdir -p /output  
 RUN pip install pandas
 RUN pip install requests
 
