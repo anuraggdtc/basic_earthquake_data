@@ -1,0 +1,101 @@
+id,magnitude,place,time,updated,tz,url,felt,alert,longitude,latitude,depth
+tx2025osnpzc,3.8,"54 km W of Mentone, Texas",1753694423361,1753703258134,,https://earthquake.usgs.gov/earthquakes/eventpage/tx2025osnpzc,,,-104.171,31.708,6.0999
+tx2025osmqsn,2.0,"54 km W of Mentone, Texas",1753692665607,1753707496624,,https://earthquake.usgs.gov/earthquakes/eventpage/tx2025osmqsn,0.0,,-104.176,31.708,6.4075
+tx2025osmnhe,3.9,"54 km W of Mentone, Texas",1753692427112,1753700751061,,https://earthquake.usgs.gov/earthquakes/eventpage/tx2025osmnhe,1.0,,-104.171,31.702,6.4075
+tx2025osmfnj,2.4,"54 km W of Mentone, Texas",1753691909713,1753694731226,,https://earthquake.usgs.gov/earthquakes/eventpage/tx2025osmfnj,,,-104.176,31.709,7.2406
+nc75216102,2.74,"17 km W of Petrolia, CA",1753686253340,1753688838091,,https://earthquake.usgs.gov/earthquakes/eventpage/nc75216102,,,-124.477996826172,40.2953338623047,10.5799999237061
+ci41034111,2.03,"8 km ENE of Julian, CA",1753684220840,1753707675881,,https://earthquake.usgs.gov/earthquakes/eventpage/ci41034111,,,-116.5185,33.0991667,11.2
+nn00901294,2.1,"22 km ESE of Alamo, Nevada",1753679468688,1753679650737,,https://earthquake.usgs.gov/earthquakes/eventpage/nn00901294,,,-114.9354,37.2727,11.3
+ci41033887,2.06,"5 km WSW of Rancho Palos Verdes, CA",1753646831270,1753666551934,,https://earthquake.usgs.gov/earthquakes/eventpage/ci41033887,17.0,,-118.431,33.7248333,4.72
+tx2025orhzds,2.3,"34 km SE of Malaga, New Mexico",1753637131639,1753662360227,,https://earthquake.usgs.gov/earthquakes/eventpage/tx2025orhzds,,,-103.819,32.005,6.9458
+tx2025oqytlb,2.0,"33 km SE of Malaga, New Mexico",1753620441310,1753638124807,,https://earthquake.usgs.gov/earthquakes/eventpage/tx2025oqytlb,,,-103.823,32.003,7.4969
+tx2025oqvjou,2.0,"54 km S of Whites City, New Mexico",1753614326045,1753672316529,,https://earthquake.usgs.gov/earthquakes/eventpage/tx2025oqvjou,,,-104.401,31.682,5.9204
+tx2025oqogvv,2.9,"54 km W of Mentone, Texas",1753601512972,1753606231659,,https://earthquake.usgs.gov/earthquakes/eventpage/tx2025oqogvv,,,-104.177,31.71,6.4075
+tx2025oqodda,2.4,"54 km W of Mentone, Texas",1753601201835,1753636200652,,https://earthquake.usgs.gov/earthquakes/eventpage/tx2025oqodda,,,-104.178,31.709,6.5228
+se60611441,2.26,"11 km ESE of Mascot, Tennessee",1753589774290,1753643496159,,https://earthquake.usgs.gov/earthquakes/eventpage/se60611441,,,-83.6371666666667,36.0123333333333,2.39
+us6000qvfa,2.9,"4 km SE of Paradise, Kansas",1753587553250,1753668166627,,https://earthquake.usgs.gov/earthquakes/eventpage/us6000qvfa,,,-98.8779,39.0877,10.0
+nc75215597,2.35,"2 km ESE of Berkeley, CA",1753579101860,1753677530809,,https://earthquake.usgs.gov/earthquakes/eventpage/nc75215597,26.0,,-122.251502990723,37.8661651611328,7.13000011444092
+tx2025oqbgsr,2.1,"22 km NNW of Three Rivers, Texas",1753577925896,1753659832396,,https://earthquake.usgs.gov/earthquakes/eventpage/tx2025oqbgsr,,,-98.238,28.657,5.1593
+nc75215547,2.08,"8 km ENE of Gilroy, CA",1753573391710,1753574839229,,https://earthquake.usgs.gov/earthquakes/eventpage/nc75215547,,,-121.490333557129,37.0466651916504,4.28000020980835
+nn00901245,2.1,"6 km SSE of Floriston, California",1753567582795,1753588952247,,https://earthquake.usgs.gov/earthquakes/eventpage/nn00901245,,,-119.9901,39.3437,7.5
+nc75215392,2.43,"5 km W of San Juan Bautista, CA",1753549617610,1753559540423,,https://earthquake.usgs.gov/earthquakes/eventpage/nc75215392,1.0,,-121.598,36.845,8.61
+nc75215362,2.26,"47 km WNW of Petrolia, CA",1753547188110,1753548440078,,https://earthquake.usgs.gov/earthquakes/eventpage/nc75215362,,,-124.83366394043,40.3246650695801,3.16000008583069
+us6000qvb7,2.7,"18 km SE of Butte, Montana",1753532835654,1753660198174,,https://earthquake.usgs.gov/earthquakes/eventpage/us6000qvb7,11.0,,-112.3943,45.8649,10.896
+nc75215287,2.51,"43 km WNW of Petrolia, CA",1753531734510,1753533137213,,https://earthquake.usgs.gov/earthquakes/eventpage/nc75215287,,,-124.765502929688,40.4403343200684,22.2999992370605
+nc75215272,2.57,"12 km SE of New Idria, CA",1753529771130,1753531043946,,https://earthquake.usgs.gov/earthquakes/eventpage/nc75215272,1.0,,-120.572998046875,36.3413314819336,11.1300001144409
+nc75215262,2.62,"38 km WNW of Petrolia, CA",1753526249760,1753528037581,,https://earthquake.usgs.gov/earthquakes/eventpage/nc75215262,,,-124.71866607666,40.4193344116211,24.5300006866455
+tx2025ooxvbu,2.5,"22 km NNW of Three Rivers, Texas",1753524607019,1753565607545,,https://earthquake.usgs.gov/earthquakes/eventpage/tx2025ooxvbu,,,-98.237,28.66,5.1008
+ci41032743,2.88,"20 km NNW of Grapevine, CA",1753517115890,1753536764247,,https://earthquake.usgs.gov/earthquakes/eventpage/ci41032743,4.0,,-119.0448333,35.0931667,11.89
+ci41032695,2.28,"13 km S of Olancha, CA",1753510197470,1753510413076,,https://earthquake.usgs.gov/earthquakes/eventpage/ci41032695,,,-118.0311667,36.1698333,1.76
+tx2025oojjtw,2.2,"8 km W of Rotan, Texas",1753498476621,1753546294586,,https://earthquake.usgs.gov/earthquakes/eventpage/tx2025oojjtw,,,-100.561,32.848,6.1279
+ci41032551,2.91,"3 km W of Banning, CA",1753491777620,1753651152830,,https://earthquake.usgs.gov/earthquakes/eventpage/ci41032551,20.0,,-116.9106667,33.9226667,13.48
+nc75215087,2.2,"8 km WNW of Ferndale, CA",1753491165370,1753492939327,,https://earthquake.usgs.gov/earthquakes/eventpage/nc75215087,,,-124.364166259766,40.5794982910156,8.59000015258789
+nc75215057,2.0,"10 km NE of Day Valley, CA",1753481143970,1753484837390,,https://earthquake.usgs.gov/earthquakes/eventpage/nc75215057,,,-121.809669494629,37.1193351745605,12.3400001525879
+nn00901198,2.3,"34 km NNW of Benton, California",1753472035429,1753473242058,,https://earthquake.usgs.gov/earthquakes/eventpage/nn00901198,,,-118.6837,38.0781,8.7
+us6000qv6s,2.4,"1 km NNE of Comstock, Nebraska",1753471598343,1753477852040,,https://earthquake.usgs.gov/earthquakes/eventpage/us6000qv6s,,,-99.2458,41.5747,8.596
+ci41032191,2.89,"3 km W of Banning, CA",1753471127110,1753557666556,,https://earthquake.usgs.gov/earthquakes/eventpage/ci41032191,30.0,,-116.9116667,33.9221667,13.09
+ci41032055,2.6,"33 km E of Primo Tapia, B.C., MX",1753464091480,1753472173859,,https://earthquake.usgs.gov/earthquakes/eventpage/ci41032055,,,-116.5705,32.2245,15.65
+nn00901190,2.3,"78 km NE of Tonopah, Nevada",1753463065681,1753464391008,,https://earthquake.usgs.gov/earthquakes/eventpage/nn00901190,,,-116.4918,38.4705,7.6
+nn00901186,2.2,"77 km ENE of Tonopah, Nevada",1753461615882,1753463637643,,https://earthquake.usgs.gov/earthquakes/eventpage/nn00901186,,,-116.4806,38.4402,9.3
+nc75214947,2.36,"19 km SSE of Petrolia, CA",1753460805890,1753463840842,,https://earthquake.usgs.gov/earthquakes/eventpage/nc75214947,,,-124.129669189453,40.2033348083496,11.9499998092651
+ci41031847,2.4,"43 km ENE of Ensenada, B.C., MX",1753452358790,1753469369625,,https://earthquake.usgs.gov/earthquakes/eventpage/ci41031847,,,-116.1768333,31.9698333,15.38
+ci41031807,2.41,"14 km NNW of Grapevine, CA",1753446725040,1753469233590,,https://earthquake.usgs.gov/earthquakes/eventpage/ci41031807,2.0,,-119.0073333,35.0488333,8.26
+us6000qv9c,2.6,"11 km E of La Malbaie, Canada",1753446592708,1753501666040,,https://earthquake.usgs.gov/earthquakes/eventpage/us6000qv9c,,,-70.0054,47.656,17.329
+nn00901180,2.5,"78 km NE of Tonopah, Nevada",1753446562068,1753462885539,,https://earthquake.usgs.gov/earthquakes/eventpage/nn00901180,,,-116.4884,38.4652,4.2
+tx2025ondpoi,2.0,"12 km W of Stanton, Texas",1753440979514,1753447933426,,https://earthquake.usgs.gov/earthquakes/eventpage/tx2025ondpoi,,,-101.922,32.107,8.96
+nn00901165,3.1,"64 km E of Lovelock, Nevada",1753440570110,1753603121495,,https://earthquake.usgs.gov/earthquakes/eventpage/nn00901165,2.0,,-117.7186,40.1638,6.5
+nc75214852,2.47,"9 km NE of Ahwahnee, CA",1753439346450,1753441534607,,https://earthquake.usgs.gov/earthquakes/eventpage/nc75214852,4.0,,-119.68083190918,37.4343338012695,13.6099996566772
+ci41031719,2.22,"29 km ESE of Kernville, CA",1753435055530,1753463588300,,https://earthquake.usgs.gov/earthquakes/eventpage/ci41031719,0.0,,-118.1396667,35.6325,12.31
+nc75214827,2.21,"10 km WSW of Chowchilla, CA",1753429670280,1753697841215,,https://earthquake.usgs.gov/earthquakes/eventpage/nc75214827,,,-120.3525,37.072,22.45
+nc75214777,2.06,"12 km WNW of Lake Pillsbury, CA",1753420731180,1753422139770,,https://earthquake.usgs.gov/earthquakes/eventpage/nc75214777,,,-123.101997375488,39.4253349304199,-0.980000019073486
+nm60611346,2.42,"9 km ENE of Uniontown, Kentucky",1753420094670,1753505187606,,https://earthquake.usgs.gov/earthquakes/eventpage/nm60611346,3.0,,-87.8288333333333,37.7981666666667,21.42
+us6000quze,2.8,"8 km ESE of Livingston Wheeler, New Mexico",1753416840030,1753451911164,,https://earthquake.usgs.gov/earthquakes/eventpage/us6000quze,13.0,,-104.1183,32.3674,5.0
+nc75214747,2.21,"21 km NNW of Hayfork, CA",1753414527580,1753415839977,,https://earthquake.usgs.gov/earthquakes/eventpage/nc75214747,,,-123.279502868652,40.7291679382324,25.6700000762939
+ok2025okpy,2.25,"5 km N of Stroud, Oklahoma",1753404869039,1753411679040,,https://earthquake.usgs.gov/earthquakes/eventpage/ok2025okpy,,,-96.65483333,35.79616667,7.57
+tx2025omiwyu,2.1,"31 km NW of Toyah, Texas",1753403671744,1753429192632,,https://earthquake.usgs.gov/earthquakes/eventpage/tx2025omiwyu,,,-104.006,31.531,7.215
+nc75214647,2.03,"11 km SSW of Tres Pinos, CA",1753400477550,1753404138511,,https://earthquake.usgs.gov/earthquakes/eventpage/nc75214647,,,-121.368499755859,36.6948318481445,0.670000016689301
+ci41031567,2.02,"4 km S of Julian, CA",1753399403040,1753462515550,,https://earthquake.usgs.gov/earthquakes/eventpage/ci41031567,2.0,,-116.6035,33.047,13.18
+tx2025olzyij,2.0,"18 km ESE of Pearsall, Texas",1753387248365,1753433588378,,https://earthquake.usgs.gov/earthquakes/eventpage/tx2025olzyij,,,-98.927,28.816,7.0324
+ok2025okdo,2.94,"7 km ENE of Guthrie, Oklahoma",1753382351000,1753416509241,,https://earthquake.usgs.gov/earthquakes/eventpage/ok2025okdo,25.0,,-97.34483333,35.8985,7.95
+us6000qunb,3.0,"6 km ENE of Livingston Wheeler, New Mexico",1753377085104,1753417506302,,https://earthquake.usgs.gov/earthquakes/eventpage/us6000qunb,12.0,,-104.1394,32.4165,5.0
+tx2025oltpee,2.3,"61 km S of Whites City, New Mexico",1753375955690,1753390666414,,https://earthquake.usgs.gov/earthquakes/eventpage/tx2025oltpee,0.0,,-104.484,31.627,7.6892
+tx2025olpyzj,2.2,"54 km W of Mentone, Texas",1753369233061,1753370771499,,https://earthquake.usgs.gov/earthquakes/eventpage/tx2025olpyzj,,,-104.171,31.713,6.9843
+nc75214387,2.07,"3 km SE of The Geysers, CA",1753359674570,1753360937340,,https://earthquake.usgs.gov/earthquakes/eventpage/nc75214387,,,-122.726997375488,38.7596664428711,1.76999998092651
+tx2025olhnsc,2.0,"11 km E of Pearsall, Texas",1753353921312,1753362977733,,https://earthquake.usgs.gov/earthquakes/eventpage/tx2025olhnsc,,,-98.976,28.883,7.4453
+tx2025olckff,3.6,"21 km ESE of El Indio, Texas",1753344627693,1753483527748,,https://earthquake.usgs.gov/earthquakes/eventpage/tx2025olckff,1.0,,-100.1,28.447,3.8999
+uu80112496,2.27,"35 km SW of Loma, Colorado",1753341945040,1753456322040,,https://earthquake.usgs.gov/earthquakes/eventpage/uu80112496,,,-109.152,39.008,5.09
+uw62149527,2.2,"71 km W of Yachats, Oregon",1753320820590,1753385128580,,https://earthquake.usgs.gov/earthquakes/eventpage/uw62149527,,,-124.99883333333334,44.4,-0.36
+nn00901074,2.4,"78 km NE of Tonopah, Nevada",1753306652418,1753322712152,,https://earthquake.usgs.gov/earthquakes/eventpage/nn00901074,,,-116.4911,38.4648,5.4
+ci41030327,2.24,"10 km NNE of Delta, B.C., MX",1753301486430,1753406606002,,https://earthquake.usgs.gov/earthquakes/eventpage/ci41030327,,,-115.156,32.4388333,12.73
+nc75214077,2.04,"14 km WSW of Petrolia, CA",1753299464470,1753303642256,,https://earthquake.usgs.gov/earthquakes/eventpage/nc75214077,,,-124.40299987793,40.2415008544922,7.34000015258789
+ci41030135,2.0,"10 km NNE of Delta, B.C., MX",1753295782070,1753406959045,,https://earthquake.usgs.gov/earthquakes/eventpage/ci41030135,,,-115.1515,32.4351667,15.32
+mb90103228,2.29,"47 km NW of Island Park, Idaho",1753270926890,1753280361400,,https://earthquake.usgs.gov/earthquakes/eventpage/mb90103228,,,-111.8095,44.711,11.6
+ok2025ohub,2.07,"5 km N of Stroud, Oklahoma",1753270533149,1753315911490,,https://earthquake.usgs.gov/earthquakes/eventpage/ok2025ohub,5.0,,-96.65016667,35.798,7.54
+uu80112426,2.19,"46 km ENE of Warm River, Idaho",1753243874200,1753276793430,,https://earthquake.usgs.gov/earthquakes/eventpage/uu80112426,,,-110.759,44.2286666666667,4.62
+tx2025oitzqk,2.9,"51 km S of Whites City, New Mexico",1753235276822,1753281230464,,https://earthquake.usgs.gov/earthquakes/eventpage/tx2025oitzqk,,,-104.281,31.717,6.933
+nc75213757,2.58,"48 km WNW of Petrolia, CA",1753232626260,1753264498980,,https://earthquake.usgs.gov/earthquakes/eventpage/nc75213757,2.0,,-124.852836608887,40.3436660766602,17.8600006103516
+ci41029335,2.91,"6 km WNW of Fillmore, CA",1753230170250,1753316686621,,https://earthquake.usgs.gov/earthquakes/eventpage/ci41029335,37.0,,-118.9758333,34.4295,6.96
+tx2025oiirvg,2.0,"55 km S of Whites City, New Mexico",1753214908338,1753216658394,,https://earthquake.usgs.gov/earthquakes/eventpage/tx2025oiirvg,,,-104.403,31.677,6.3049
+ci41028815,2.09,"43 km NNE of Ensenada, B.C., MX",1753206063980,1753367355435,,https://earthquake.usgs.gov/earthquakes/eventpage/ci41028815,1.0,,-116.3791667,32.1948333,21.79
+tx2025oidneq,2.1,"18 km S of Nixon, Texas",1753205448154,1753369025884,,https://earthquake.usgs.gov/earthquakes/eventpage/tx2025oidneq,,,-97.754,29.105,9.8657
+ci37548365,2.21,"22 km NNE of Avalon, CA",1753192341930,1753462904923,,https://earthquake.usgs.gov/earthquakes/eventpage/ci37548365,,,-118.2726667,33.536,-0.17
+ci41028519,3.01,"22 km S of San Pedro, CA",1753192313070,1753461903317,,https://earthquake.usgs.gov/earthquakes/eventpage/ci41028519,,,-118.2508333,33.5443333,2.19
+ci41028511,2.53,"16 km WSW of Johannesburg, CA",1753191951110,1753400182859,,https://earthquake.usgs.gov/earthquakes/eventpage/ci41028511,1.0,,-117.8051667,35.3241667,7.08
+tx2025ohudam,2.5,"17 km S of Nixon, Texas",1753188440434,1753273749040,,https://earthquake.usgs.gov/earthquakes/eventpage/tx2025ohudam,,,-97.749,29.106,6.6101
+tx2025ohncyu,2.0,"11 km E of Pearsall, Texas",1753175761029,1753184693475,,https://earthquake.usgs.gov/earthquakes/eventpage/tx2025ohncyu,,,-98.983,28.873,9.0831
+nc75213347,2.24,"52 km W of Cape Vizcaino, CA",1753175388670,1753266139694,,https://earthquake.usgs.gov/earthquakes/eventpage/nc75213347,,,-124.421333333333,39.6333333333333,19.37
+nn00901018,2.0,"52 km E of Beatty, Nevada",1753173783872,1753191325068,,https://earthquake.usgs.gov/earthquakes/eventpage/nn00901018,,,-116.1837,36.9883,6.3
+tx2025ohlplx,2.1,"56 km S of Whites City, New Mexico",1753173013531,1753190425727,,https://earthquake.usgs.gov/earthquakes/eventpage/tx2025ohlplx,,,-104.369,31.665,6.8689
+uw62156431,2.31,"7 km NE of Snoqualmie, Washington",1753165131780,1753371080136,,https://earthquake.usgs.gov/earthquakes/eventpage/uw62156431,17.0,,-121.74816666666666,47.5695,16.5
+nm60611131,2.03,"3 km ESE of Dexter, Missouri",1753164709830,1753196584170,,https://earthquake.usgs.gov/earthquakes/eventpage/nm60611131,,,-89.92,36.7795,10.35
+us6000qu2w,3.1,"18 km NNW of Jal, New Mexico",1753161773313,1753162600040,,https://earthquake.usgs.gov/earthquakes/eventpage/us6000qu2w,,,-103.2668,32.2638,1.588
+ci41028271,2.15,"6 km N of Delano, CA",1753159878330,1753375661864,,https://earthquake.usgs.gov/earthquakes/eventpage/ci41028271,1.0,,-119.2571667,35.8251667,20.16
+nc75213222,2.85,"10 km WNW of Bayview, CA",1753158806800,1753160839034,,https://earthquake.usgs.gov/earthquakes/eventpage/nc75213222,1.0,,-124.307334899902,40.7804985046387,23.2299995422363
+tx2025ohavpg,2.0,"34 km SSE of Midland, Texas",1753153564953,1753170523206,,https://earthquake.usgs.gov/earthquakes/eventpage/tx2025ohavpg,,,-101.978,31.695,8.667
+us6000qu1h,2.0,"3 km SE of Randolph, New Jersey",1753146026158,1753380075251,,https://earthquake.usgs.gov/earthquakes/eventpage/us6000qu1h,92.0,,-74.5525,40.8218,5.0
+nc75213087,2.61,"60 km WNW of Petrolia, CA",1753132578600,1753134739973,,https://earthquake.usgs.gov/earthquakes/eventpage/nc75213087,,,-124.997329711914,40.344165802002,13.2600002288818
+nn00900995,2.3,"2 km NNE of Fernley, Nevada",1753130834144,1753132993410,,https://earthquake.usgs.gov/earthquakes/eventpage/nn00900995,,,-119.2433,39.6292,11.1
+ci41027919,2.21,"20 km E of Little Lake, CA",1753129230820,1753371294277,,https://earthquake.usgs.gov/earthquakes/eventpage/ci41027919,,,-117.6905,35.9546667,2.18
+nc75212992,2.54,"1 km NNW of The Geysers, CA",1753119060120,1753200553448,,https://earthquake.usgs.gov/earthquakes/eventpage/nc75212992,2.0,,-122.764999389648,38.7843322753906,3.47000002861023
+tx2025ogenhn,2.4,"51 km SSW of Whites City, New Mexico",1753113121646,1753130321731,,https://earthquake.usgs.gov/earthquakes/eventpage/tx2025ogenhn,,,-104.502,31.72,5.6384
+us7000qe96,2.5,"23 km WNW of Alcova, Wyoming",1753098456971,1753103468040,,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qe96,,,-106.9719,42.65,9.59
