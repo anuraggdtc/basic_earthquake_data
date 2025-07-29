@@ -1,6 +1,9 @@
 import requests, json, csv
 import pandas as pd
 
+if not os.path.exists('./output'):
+    os.mkdir('./output')
+    
 def get_data():
     url = 'https://earthquake.usgs.gov/fdsnws/event/1/query'
     response = requests.get(url,
